@@ -11,10 +11,6 @@
 <a href="https://github.com/anirudht2025">
   <img src="https://komarev.com/ghpvc/?username=anirudht2025&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </a>
-&nbsp;
-<a href="https://github.com/anirudht2025?tab=followers">
-  <img src="https://img.shields.io/github/followers/anirudht2025?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers" />
-</a>
 
 <br/><br/><br/>
 
