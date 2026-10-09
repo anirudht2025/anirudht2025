@@ -18,8 +18,6 @@
 
 </div>
 
----
-
 <h2 align="center">⚡ About Me</h2>
 
 <img align="right" alt="Coding Animation" width="300" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me.gif" />
@@ -32,8 +30,6 @@
 - 🎯 Looking for opportunities to build impactful, real-world solutions.
 
 <br clear="right"/>
-
----
 
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -55,8 +51,6 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,terraform,linux,git,github" alt="Cloud and DevOps Technologies" />
 </p>
 
----
-
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
@@ -64,8 +58,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
-
----
 
 <h2 align="center">🤝 Let's Connect</h2>
 
