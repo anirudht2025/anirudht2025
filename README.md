@@ -16,7 +16,7 @@ B.Tech graduate in Information Technology with hands-on exposure to Full-Stack D
 
 ### Currently Learning
 
-System Design • Data Structures & Algorithms • Next.js • Angular
+Data Structures & Algorithms • Next.js • Angular
 
 ### About
 
