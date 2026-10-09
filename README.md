@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Hi,%20I'm%20Anirudh&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20the%20Future%20with%20Code&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%A1;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;AWS+%7C+Docker+%7C+Kubernetes+%F0%9F%9A%80;Turning+Ideas+Into+Real-World+Applications+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%A1;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;AWS+%7C+Docker+%7C+Kubernetes+%F0%9F%9A%80;Turning+Ideas+Into+Real-World+Applications+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -60,26 +60,10 @@
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1572B6?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1572B6?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
 </p>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamanirudh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Anirudh's GitHub Stats" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamanirudh&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=iamanirudh&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
 
 ---
 
