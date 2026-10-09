@@ -1,65 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Hi,%20I'm%20Anirudh&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20the%20Future%20with%20Code&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Hi,%20I'm%20Anirudh&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20the%20Future%20with%20Code&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%A1;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;AWS+%7C+Docker+%7C+Kubernetes+%F0%9F%9A%80;Turning+Ideas+Into+Real-World+Applications+%E2%9C%A8" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer;MERN+Stack+Developer;Cloud+%26+DevOps+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Building+Real-World+Applications" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/iamanirudh">
-  <img src="https://komarev.com/ghpvc/?username=iamanirudh&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iamanirudh&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </a>
 &nbsp;
 <a href="https://github.com/iamanirudh?tab=followers">
-  <img src="https://img.shields.io/github/followers/iamanirudh?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/iamanirudh?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers" />
 </a>
-
-<br/><br/>
 
 </div>
 
-<h2 align="center">⚡ About Me</h2>
-
-<img align="right" alt="Coding Animation" width="280" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me.gif" />
-
-🎓 &nbsp; B.Tech graduate in Information Technology.
-
-💻 &nbsp; Focused on **Full-Stack Development with the MERN stack**.
-
-☁️ &nbsp; Exploring cloud infrastructure and modern DevOps practices.
-
-🚀 &nbsp; Hands-on exposure to Docker, Kubernetes, CI/CD, and AWS.
-
-🧠 &nbsp; Strengthening my software engineering and problem-solving skills.
-
-🎯 &nbsp; Looking for opportunities to build impactful, real-world solutions.
-
-<br clear="right"/>
 <br/>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h1 align="center">About Me</h1>
 
-<h3 align="center">🎨 &nbsp; Frontend Development</h3>
+<br/>
+
+B.Tech graduate in Information Technology with hands-on exposure to Full-Stack Development and Cloud/DevOps.
+
+- Focused on building practical applications with the MERN stack.
+- Exploring cloud infrastructure and modern DevOps practices.
+- Hands-on exposure to Docker, Kubernetes, CI/CD, and AWS.
+- Strengthening software engineering and problem-solving skills.
+- Looking for opportunities to contribute to real-world projects.
+
+<br/>
+
+<h1 align="center">Tech Stack & Tools</h1>
+
+<br/>
+
+<h2 align="center">Frontend Development</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap" alt="Frontend Technologies" />
 </div>
 
-<br/>
+<br/><br/>
 
-<h3 align="center">⚙️ &nbsp; Backend & Database</h3>
+<h2 align="center">Backend & Database</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies" />
 </div>
 
-<br/>
+<br/><br/>
 
-<h3 align="center">☁️ &nbsp; Cloud, DevOps & Infrastructure</h3>
+<h2 align="center">Cloud, DevOps & Infrastructure</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,terraform,linux,git,github" alt="Cloud and DevOps Technologies" />
@@ -67,11 +64,13 @@
 
 <br/><br/>
 
-<h2 align="center">🌱 Currently Learning</h2>
+<h1 align="center">Currently Learning</h1>
+
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-Problem%20Solving-1572B6?style=for-the-badge" alt="Data Structures and Algorithms" />
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-1572B6?style=for-the-badge" alt="Data Structures and Algorithms" />
 &nbsp;
 <img src="https://img.shields.io/badge/Next.js-Learning-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 &nbsp;
@@ -81,7 +80,9 @@
 
 <br/><br/>
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h1 align="center">Let's Connect</h1>
+
+<br/>
 
 <div align="center">
 
@@ -99,7 +100,7 @@
 
 <br/><br/>
 
-### ✨ *"Building, Learning, and Deploying — One Commit at a Time."*
+<h3>Building, Learning, and Deploying — One Commit at a Time.</h3>
 
 <br/>
 
