@@ -22,25 +22,25 @@ I'm a B.Tech graduate in Information Technology interested in building practical
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap" alt="JavaScript, React, HTML, CSS, Tailwind CSS, Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap" alt="Frontend technologies" />
 </p>
 
-**Backend & Databases**
+**Backend &amp; Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express, MongoDB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database technologies" />
 </p>
 
-**Cloud & DevOps**
+**Cloud &amp; DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,terraform,linux" alt="AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform, Linux" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,terraform,linux" alt="Cloud and DevOps technologies" />
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
 </p>
 
 ### Connect
