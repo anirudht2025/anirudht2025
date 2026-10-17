@@ -77,10 +77,6 @@ B.Tech graduate in Information Technology with hands-on exposure to Full-Stack D
 <a href="https://leetcode.com/u/iamanirudh/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
-&nbsp;
-<a href="https://github.com/anirudht2025">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 
 <br/><br/><br/>
 
