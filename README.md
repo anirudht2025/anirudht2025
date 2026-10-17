@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:164e63&height=180&section=header&text=Anirudh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Anirudh — Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:164e63&amp;height=180&amp;section=header&amp;text=Anirudh&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps&amp;descSize=16&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="Anirudh — Full-Stack Developer" />
 
 <a href="https://github.com/anirudht2025">
-  <img src="https://komarev.com/ghpvc/?username=anirudht2025&style=flat-square&color=164e63&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anirudht2025&amp;style=flat-square&amp;color=164e63&amp;label=Profile+Views" alt="Profile views" />
 </a>
 
 </div>
@@ -47,10 +47,10 @@ I'm a B.Tech graduate in Information Technology interested in building practical
 
 <p>
   <a href="https://www.linkedin.com/in/anirudht2026/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/iamanirudh/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
